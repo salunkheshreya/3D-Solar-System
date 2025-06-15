@@ -2,6 +2,8 @@
 
 This project is a 3D simulation of the solar system built using [Three.js](https://threejs.org/). It visualizes the 8 planets orbiting the Sun, with realistic motion, lighting, and controls.
 
+
+
 ## 🚀 Features
 - 🌞 Realistic solar system simulation
 - 🌍 8 planets orbiting and rotating around the Sun
@@ -35,7 +37,7 @@ project-folder/
 ├── README.md
 └── assets/ (optional)
 
-
+## run = Run this on live server 
 
 
 
